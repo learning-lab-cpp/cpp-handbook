@@ -22,5 +22,4 @@ int main()
     // Output:
     // Coffee bean Strata is from Colombia. It's strength is 10.
     // Coffee bean Flora is from Mexico. It's strength is 9.
-
 }
