@@ -1,4 +1,4 @@
-# CPP Handbook with Code Samples
+# CPP notes with code samples
 [Basics](#basics) | [Data Types](#data-types) | [Control Statements](#control-statements) |
 [Functions and Objects](#functions-and-objects) | [Links](#links)
 
